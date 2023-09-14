@@ -1,0 +1,6 @@
+brew "ccache"
+brew "cmake"
+brew "git"
+brew "jq"
+brew "xcbeautify"
+brew "xclogparser"
